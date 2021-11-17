@@ -1,0 +1,48 @@
+
+#header {
+    background-color: rgb(7, 2, 2);
+    height: 70px;     
+}
+h1 {
+    color: rgb(216, 206, 167);
+}
+#brand {
+    line-height: 30px;
+    height: 70px;  
+    width: 40%;
+    float: left;
+    text-align: center;
+}
+#menu {
+    text-align: center;
+    line-height: 75px;
+    height: 70px;  
+    width: 60%;
+    float: right;   
+}
+a{
+    text-decoration: none;
+    color: cornsilk;
+    margin-right: 30px;
+}
+img {
+    margin: 150px;
+    border-radius: 50%;
+    float: left;
+    width: 20%;
+}
+
+  table {
+      width: 100%;
+      text-align: center;
+  }
+  #tablediv {
+      margin-top: 100px;   
+  }
+  #footer{
+      background-color: #8b0000;
+      text-align: center;
+      color: white;
+      margin-top: 100px;
+      padding: 30px;
+  }
